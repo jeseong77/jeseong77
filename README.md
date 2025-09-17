@@ -1,6 +1,6 @@
 # Hi, I'm Jeseong Lee 👋
 
-**Fullstack Developer | Startup Builder | Explorer**
+**Fullstack Developer | Builder | Explorer**
 
 ---
 
