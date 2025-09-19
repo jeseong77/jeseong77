@@ -8,7 +8,7 @@
 
 - Fullstack developer experienced with **Go, Python, JavaScript, TypeScript, Node.js, FastAPI, React Native, Expo**—and always open to learning new skills.
 - Solid foundation in **C and C++** from college days.
-- Studied **Computer Science & Mathematics** at Columbia University, on an indefinite leave of absence to pursue startup dreams since Junior years.
+- Studied **Computer Science & Mathematics** at **Columbia University**, on an indefinite leave of absence to pursue startup dreams since Junior years.
 - Lived and worked in **Manila, London, Coventry, Manhattan**, and currently based in **Seoul**.
 - Passionate about building scalable products, solving real-world problems, and collaborating with global teams.
 
